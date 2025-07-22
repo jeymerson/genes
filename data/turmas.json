@@ -1,0 +1,12 @@
+[
+  {
+    "nome": "Turma A",
+    "nivel": 1,
+    "idioma": "Inglês"
+  },
+  {
+    "nome": "Turma B",
+    "nivel": 2,
+    "idioma": "Francês"
+  }
+]

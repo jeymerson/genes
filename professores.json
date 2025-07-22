@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "João",
+    "nivel": 2,
+    "idiomas": ["Inglês", "Espanhol"],
+    "horariosDisponiveis": ["Segunda-08", "Terça-10", "Quarta-08"]
+  },
+  {
+    "nome": "Maria",
+    "nivel": 3,
+    "idiomas": ["Francês", "Inglês"],
+    "horariosDisponiveis": ["Segunda-10", "Quarta-08", "Sexta-08"]
+  }
+]
